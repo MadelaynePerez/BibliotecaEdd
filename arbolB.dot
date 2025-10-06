@@ -66,5 +66,5 @@ digraph B {
   nodo29 -> nodo34;
   nodo32 [label="Los Juegos del Hambre: En Llamas\nEl Cementerio de Praga"];
   nodo29 -> nodo36;
-  nodo33 [label="Sapiens: De animales a dioses\nEl Laberinto de los Espiritus\nHarry Potter y el Legado Maldito (Guion)"];
+  nodo33 [label="Sapiens: De animales a dioses\nEl Laberinto de los Espiritus\nHarry Potter y el Legado Maldito (Guion)\na"];
 }
